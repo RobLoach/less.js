@@ -1,0 +1,16 @@
+{
+  "name": "less/less.js",
+  "description": "Leaner CSS",
+  "type": "component",
+  "license": "Apache-2.0",
+  "extra": {
+    "component": {
+      "scripts": [
+        "dist/less.js"
+      ],
+      "files": [
+        "dist/less.min.js"
+      ]
+    }
+  }
+}
